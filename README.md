@@ -1,5 +1,6 @@
 ## Cahier de textes
-### Pour jeudi 9/9 : exercices 2 et 3 du notebook [exercice-recursion](https://github.com/thfruchart/tnsi/blob/main/01/exercices_recursion.ipynb)
+### Pour jeudi 9/9 : 
+* exercices 2 et 3 du notebook [exercice-recursion](https://github.com/thfruchart/tnsi/blob/main/01/exercices_recursion.ipynb)
 ### Pour lundi 13/9 : 
 * exercice 1 du sujet8 d'[ÉPREUVE PRATIQUE](https://github.com/thfruchart/tnsi/blob/main/Epreuve_Pratique/Sujet8.ipynb)
 * Exo 3 question 3 du notebook [exercice-recursion](https://github.com/thfruchart/tnsi/blob/main/01/exercices_recursion.ipynb)
