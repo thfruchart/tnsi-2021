@@ -1,6 +1,7 @@
 ## Cahier de textes
 * Pour jeudi 16/9
   * QCM  [Récursivité](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
+  * questions à poser sur Travail personnel : [Récursivité](https://github.com/thfruchart/tnsi/blob/main/01/RECURSIVITE_TRAVAIL_PERSO.ipynb)
 * Pour mardi 14/9:
   * QCM : [Révisions de première](https://genumsi.inria.fr/qcm.php?h=9428efc5541a76c91fc75d41151c85a5)
   * Travail personnel : [Récursivité](https://github.com/thfruchart/tnsi/blob/main/01/RECURSIVITE_TRAVAIL_PERSO.ipynb)
