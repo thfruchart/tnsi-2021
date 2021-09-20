@@ -6,7 +6,7 @@
 * Pour lundi 20/9
   * DM sur Routage 
   * pour rappel : les corrigés de certains exercices sur la récursion sont disponibles [ici](https://github.com/thfruchart/tnsi/blob/main/01/Correction)
-*  Pour jeudi 16/9
+* Pour jeudi 16/9
   * QCM  [Récursivité](https://genumsi.inria.fr/qcm.php?h=cf4244c08fa38c7c0e611edfac246f7b)
   * questions à poser sur Travail personnel : [Récursivité](https://github.com/thfruchart/tnsi/blob/main/01/RECURSIVITE_TRAVAIL_PERSO.ipynb)
 * Pour mardi 14/9:
