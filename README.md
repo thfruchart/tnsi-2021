@@ -1,4 +1,8 @@
 ## Cahier de textes
+* Pour lundi 27/9
+  * DM à rendre au format numérique : **Sujet 20** accessible avec les deux liens suivants
+     *  [lien sur github](https://github.com/thfruchart/tnsi/blob/main/Epreuve_Pratique/Sujet20.ipynb) 
+     *  [lien sur Basthon](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/Epreuve_Pratique/Sujet20.ipynb)
 * Pour lundi 20/9
   * DM sur Routage 
   * pour rappel : les corrigés de certains exercices sur la récursion sont disponibles [ici](https://github.com/thfruchart/tnsi/blob/main/01/Correction)
