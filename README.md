@@ -3,7 +3,7 @@
   * DM à rendre au format numérique : **Sujet 20** accessible avec les deux liens suivants
      *  [lien sur github](https://github.com/thfruchart/tnsi/blob/main/Epreuve_Pratique/Sujet20.ipynb) 
      *  [lien sur Basthon](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/thfruchart/tnsi/main/Epreuve_Pratique/Sujet20.ipynb)
-* Pour Mardi 21/9
+* Pour mardi 21/9
   * Récursion-Exercice **8**  [du notebook](https://github.com/thfruchart/tnsi/blob/main/01/exercices_recursion.ipynb) 
 * Pour lundi 20/9
   * DM sur Routage 
