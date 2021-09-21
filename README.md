@@ -26,6 +26,7 @@
 ### [Les épreuves du BAC](https://github.com/thfruchart/tnsi/blob/main/D%C3%A9finition%20Epreuve%20Term.pdf)
 ## Programmation et Algorithmique
 * [Récursivité](https://github.com/thfruchart/tnsi/tree/main/01)
+* [Modularité](https://github.com/thfruchart/tnsi/tree/main/02)
 
 
 ## Architecture Réseau et Systèmes d'Exploitation
