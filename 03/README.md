@@ -8,3 +8,7 @@
 
 #### [Notebook de cours](https://github.com/thfruchart/tnsi/blob/main/03/COURS_Programmation_Objet.ipynb)
 #### [Feuille d'exercice](https://github.com/thfruchart/tnsi/blob/main/03/FeuilleEXOS_Objets.pdf)
+**CORRECTION des exercices**
+* [exercice 1](https://github.com/thfruchart/tnsi/blob/main/03/CORRECTION_exo1_Programmation_Objet.ipynb)
+* [exercice 2](https://github.com/thfruchart/tnsi/blob/main/03/CORRECTION_exo_2_programmation_objet.ipynb)
+* [exercice 3](https://github.com/thfruchart/tnsi/blob/main/03/CORRECTION_exo3.ipynb)
