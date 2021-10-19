@@ -10,4 +10,5 @@
 * Correction des exercices
   * [Exo1](https://github.com/thfruchart/tnsi/blob/main/06/CORRECTION-Exercice1.ipynb) 
   * [Exo2](https://github.com/thfruchart/tnsi/blob/main/06/CORRECTION-EXERCICE2.ipynb)
+  * [Exo5](https://github.com/thfruchart/tnsi/blob/main/06/CORRECTION_Exercice5.ipynb)
 * [Notebook d'entraînement avant QCM](https://github.com/thfruchart/tnsi/blob/main/06/QCM_Entra%C3%AEnement.ipynb)
