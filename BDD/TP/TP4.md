@@ -1,4 +1,5 @@
 # TP4 : requête et sous-requête
+Avant de commencer le TP, on pourra relire le [mode d'emploi](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/Mode_emploi.md)
 
 ### Exemple 1 : trouver tous les titres du même auteur que "Guerre et Paix"
 On peut utiliser une première requête pour trouver le nom de l'auteur
