@@ -1,6 +1,6 @@
 # TP3 : modifier le contenu d'une table
 
-Avant de commencer le TP, on pourra relire le [mode d'emploi](https://github.com/thfruchart/tnsi-2020/blob/master/BDD/Chap1/Mode_emploi.md)
+Avant de commencer le TP, on pourra relire le [mode d'emploi](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/Mode_emploi.md)
 
 Les exemples sont tous tirés de la base de données `test` contenant les données d'une bibliothèque fictive.
 
