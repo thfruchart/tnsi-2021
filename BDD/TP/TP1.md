@@ -1,4 +1,7 @@
 # TP1 : interroger une base de données: requêtes simples
+Avant de commencer le TP, on pourra lire le [mode d'emploi](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/Mode_emploi.md)
+
+
 Pour commencer, sélectionner la base `test` dans le menu de phpMyAdmin, à gauche. Cette base va nous servir pour l'ensemble du chapitre.
 
 
