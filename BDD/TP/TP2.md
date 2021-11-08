@@ -1,6 +1,6 @@
 # TP2 : interrogation d'une base de données
 
-Avant de commencer le TP, on pourra relire le [mode d'emploi](https://github.com/thfruchart/tnsi-2020/blob/master/BDD/Chap1/Mode_emploi.md)
+Avant de commencer le TP, on pourra relire le [mode d'emploi](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/Mode_emploi.md)
 ## notion de **jointure**
 
 #### Comparer les requêtes suivantes : 
