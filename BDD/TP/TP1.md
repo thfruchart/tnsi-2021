@@ -2,7 +2,7 @@
 Avant de commencer le TP, on pourra lire le [mode d'emploi](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/Mode_emploi.md)
 
 
-Pour commencer, sélectionner la base `test` dans le menu de phpMyAdmin, à gauche. Cette base va nous servir pour l'ensemble du chapitre.
+Pour commencer, sélectionner la base `bibli` dans le menu de phpMyAdmin, à gauche. Cette base va nous servir pour l'ensemble du chapitre.
 
 
 Pour découvrir l'utilisation d'une base de données, vous allez **saisir des requêtes** : pour cela ouvrez la **Console de requêtes SQL** située tout en bas de l'écran dans phpMyAdmin. Ce que vous aurez à saisir sera présenté de la manière suivante dans ce document :
