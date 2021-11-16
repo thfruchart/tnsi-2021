@@ -1,10 +1,4 @@
--- exemple
-SELECT usager.nom, usager.prenom, livre.titre, emprunt.retour 
-FROM usager 
-JOIN emprunt ON usager.code_barre = emprunt.code_barre 
-JOIN livre ON emprunt.isbn = livre.isbn 
-WHERE emprunt.retour='2020-01-01';
-
+-- Exercice 2 (TP2)
 --1.Afficher le nom et le prénom de l'auteur du livre '1984'
 SELECT auteur.nom, auteur.prenom
 FROM auteur 
