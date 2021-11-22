@@ -2,7 +2,7 @@
 
 Avant de commencer le TP, on pourra relire le [mode d'emploi](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/Mode_emploi.md)
 
-Les exemples sont tous tirés de la base de données `test` contenant les données d'une bibliothèque fictive.
+Les exemples sont tous tirés de la base de données `bibli` contenant les données d'une bibliothèque fictive.
 
 ### que peut-on modifier dans une base de données ? 
 
