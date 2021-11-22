@@ -152,8 +152,9 @@ Ce qui se passe :
 * lors de la conception d'une base de donnée, il est important de bien choisir le domaine défini pour chaque champ (ou colonne).
 
 ## Clé étrangère
-Exécuter **d'abord**: 
-* `ALTER TABLE emprunt ADD CONSTRAINT fk_code_barre FOREIGN KEY (code_barre) REFERENCES usager(code_barre);`
+* Sélectionner la table `emprunt`
+* cliquer dans l'onglet `Structure`
+* vérifier qu'il existe une clé étangère nommée `fk_usager_code_barre`
 
 **Puis** essayer les requêtes :
 
@@ -164,7 +165,7 @@ Noter les messages d'erreur :
 
 #1452 - Cannot add or update a child row...  et  #1451 - Cannot delete or update a parent row: 
 
-**a foreign key constraint fails** (test.emprunt, CONSTRAINT fk_code_barre FOREIGN KEY (code_barre) REFERENCES usager (code_barre))
+**a foreign key constraint fails** (test.emprunt, CONSTRAINT fk_usager_code_barre FOREIGN KEY (code_barre) REFERENCES usager (code_barre))
 
 Explication :
 * la présence d'une clé étrangère sur la table `emprunt` impose une restriction lorsqu'on souhaite ajouter, supprimer ou modifier certaines lignes :
