@@ -10,7 +10,7 @@
 
 
 ## COURS
-
+* [Vocabulaire du modèle relationnel](https://github.com/thfruchart/tnsi/blob/main/BDD/Cours/COURS1-VOCABULAIRE-RELATION.pdf)
 
 ## Exercices sur feuille
 
