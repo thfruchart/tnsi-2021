@@ -15,3 +15,4 @@
 
 ## Bases de données et langage SQL
 * [TP d'introduction](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/README.md)
+* [Feuilles d'exercices](https://github.com/thfruchart/tnsi/tree/main/BDD/Exercices)
