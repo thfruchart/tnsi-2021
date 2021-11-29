@@ -14,6 +14,4 @@
 * [Processus](https://github.com/thfruchart/tnsi/tree/main/22)
 
 ## Bases de données et langage SQL
-* [TP d'introduction](https://github.com/thfruchart/tnsi/blob/main/BDD/TP/README.md)
-* [Feuilles d'exercices](https://github.com/thfruchart/tnsi/tree/main/BDD/Exercices)
-* [COURS](https://github.com/thfruchart/tnsi/tree/main/BDD/Cours)
+* [vue d'ensemble](https://github.com/thfruchart/tnsi/tree/main/BDD)
