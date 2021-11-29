@@ -11,6 +11,7 @@
 
 ## COURS
 * [Vocabulaire du modèle relationnel](https://github.com/thfruchart/tnsi/blob/main/BDD/Cours/COURS1-VOCABULAIRE-RELATION.pdf)
+* [Contraintes d'intégrité](https://github.com/thfruchart/tnsi/blob/main/BDD/Cours/COURS2-CONTRAINTES-SQL.pdf)
 
 ## Exercices sur feuille
 
