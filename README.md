@@ -7,6 +7,7 @@
 * [Programmation Orientée Objet](https://github.com/thfruchart/tnsi/tree/main/03)
 * [Structures linéaires : listes chaînées](https://github.com/thfruchart/tnsi/tree/main/06)
 * [Structures linéaires : PILES et FILES](https://github.com/thfruchart/tnsi/tree/main/07)
+* [Arbres binaires](https://github.com/thfruchart/tnsi/tree/main/08)
 
 
 ## Architecture Réseau et Systèmes d'Exploitation
