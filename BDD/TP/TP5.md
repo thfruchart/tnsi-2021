@@ -69,11 +69,11 @@ Pour chacune des questions ci-dessous, écrire **une** requête SQL en ligne de 
 3. Combien y a-t-il de pingouins?
 4. Quels sont les pseudos des loups ?
 #### écrire dans la base
-7. AJOUTER dans la table, un nouvel animal de votre choix.
-8. Une fois votre animal ajouté, écrire dans le champ `commentaire` : "ajouté par ..." avec votre prénom !
+9. AJOUTER dans la table, un nouvel animal de votre choix.
+10. Une fois votre animal ajouté, écrire dans le champ `commentaire` : "ajouté par ..." avec votre prénom !
 #### pour aller plus loin
-6. Donnez le nom et le prénom de toutes les personnes qui peuvent soigner les chats.
-7. Qui peut soigner Lizzie ?
+11. Donnez le nom et le prénom de toutes les personnes qui peuvent soigner les chats.
+12. Qui peut soigner Lizzie ?
 
 
 
