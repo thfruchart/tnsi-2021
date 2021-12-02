@@ -69,6 +69,8 @@ Pour chacune des questions ci-dessous, écrire **une** requête SQL en ligne de 
 4. Quels sont les pseudos des loups ?
 1. Donnez le nom et le prénom de toutes les personnes qui peuvent soigner les chats.
 2. Qui peut soigner Lizzie ?
+3. AJOUTER dans la table, un nouvel animal de votre choix.
+4. Une fois votre animal ajouté, écrire dans le champ `commentaire` : "ajouté par ..." avec votre prénom !
 
 
 
