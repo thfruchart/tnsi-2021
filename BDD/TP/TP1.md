@@ -86,7 +86,7 @@ On pourra chercher les livres dont le titre contient Astérix (précédé ou sui
 * `SELECT * FROM `livre` WHERE titre LIKE '%Astérix%';`
    * remarquer le "double joker" : % au début et à la fin de la chaîne.
 
-#### Fonctions d'agrégations
+### Fonctions d'agrégations
 Au lieu de renvoyer une "table", une requête SELECT peut permettre d'appeler une fonction d'agrégation, comme MAX, MIN, COUNT, AVG, SUM ... 
 Ces fonctions sont appliquées à l'ensemble des valeurs d'une colonne, et le résultat est affiché avec SELECT.
 
@@ -96,7 +96,7 @@ Ces fonctions sont appliquées à l'ensemble des valeurs d'une colonne, et le r�
 
 **AVG** renvoie la moyenne (average) des valeurs d'une colonne. 
 
-**SUM** renvoie la moyenne (average) des valeurs d'une colonne. 
+**SUM** renvoie la sommes des valeurs d'une colonne. 
 
 Exemple: pour trouver l'année du livre le plus "ancien" dans la table **livre**  et l'année du livre le plus récent: 
 * `SELECT MIN(annee) FROM livre;`
