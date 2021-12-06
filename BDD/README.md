@@ -16,7 +16,7 @@
 ## Exercices sur feuille
 * [requêtes de sélection](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/SQL-SELECT.pdf)
 * [requêtes de mise à jour](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/SQL-MiseAJour.pdf)
-* [Feuille d'exercices](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/Feuille_exercices_SQL.pdf) + [Correction](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/Feuille_exercices_CORRECTION.1.2.3.sql)
+* [Feuille d'exercices](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/Feuille_exercices_SQL.pdf) + [Correction 1.2.3](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/Feuille_exercices_CORRECTION.1.2.3.sql)
 
 ## Exercice de bac
 * [énoncé1](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/BAC-Metropole-2021-EXERCICE2.pdf)
