@@ -1,8 +1,0 @@
-cd C:\xampp\mysql\bin
-
-mysql -h 10.10.18.20 -u nsi -p
-
-
-MariaDB [(none)]> USE nsi
-Database changed
-MariaDB [nsi]>

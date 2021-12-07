@@ -1,0 +1,7 @@
+cd C:\xampp\mysql\bin
+
+mysql -h 127.0.0.1 -u root
+
+MariaDB [(none)]> USE zoo
+Database changed
+MariaDB [zoo]>
