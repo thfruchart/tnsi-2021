@@ -1,3 +1,6 @@
+OUVRIR une invite de commande avec CMD
+
+
 cd C:\xampp\mysql\bin
 
 mysql -h 127.0.0.1 -u root
