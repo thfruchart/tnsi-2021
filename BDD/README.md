@@ -21,3 +21,7 @@
 ## Exercice de bac
 * [énoncé1](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/BAC-Metropole-2021-EXERCICE2.pdf)
 * [corrigé1](https://github.com/thfruchart/tnsi/blob/main/BDD/Exercices/BAC-Metropole-2021-EXERCICE2_CORR.pdf)
+
+## Evaluation
+* [sujet](https://github.com/thfruchart/tnsi/blob/main/BDD/EVAL.pdf)
+* [correction](https://github.com/thfruchart/tnsi/blob/main/BDD/EvalCORR.md)
