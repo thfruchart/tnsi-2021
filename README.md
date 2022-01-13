@@ -8,6 +8,8 @@
 * [Structures linéaires : listes chaînées](https://github.com/thfruchart/tnsi/tree/main/06)
 * [Structures linéaires : PILES et FILES](https://github.com/thfruchart/tnsi/tree/main/07)
 * [Arbres binaires](https://github.com/thfruchart/tnsi/tree/main/08)
+* [Arbres binaires de recherche](https://github.com/thfruchart/tnsi/tree/main/09)
+* [Diviser pour Régner](https://github.com/thfruchart/tnsi/tree/main/12)
 
 
 ## Architecture Réseau et Systèmes d'Exploitation
