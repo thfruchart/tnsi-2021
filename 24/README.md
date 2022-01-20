@@ -8,7 +8,7 @@
 
 
 ## Chiffrement asymétrique
-* [fiche méthode (page2)](https://github.com/thfruchart/tnsi/blob/main/24/S%C3%A9curisation/Fiche%20m%C3%A9thode%20chiffrement.pdf)
+* [fiche méthode (page2)](https://github.com/thfruchart/tnsi/blob/main/24/Fiche%20m%C3%A9thode%20chiffrement.pdf)
 * [activité 2](https://github.com/thfruchart/tnsi/blob/main/24/Activit%C3%A9-Chiffrement-ASYMETRIQUE.pdf)
 
 ## Le protocole HTTPS
