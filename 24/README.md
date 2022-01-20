@@ -13,3 +13,4 @@
 
 ## Le protocole HTTPS
 * voir le paragraphe dédié sur la [page suivante](https://pixees.fr/informatiquelycee/n_site/nsi_term_archi_secu.html)
+* Que penser des explications de [cette page](https://fr.wikipedia.org/wiki/HyperText_Transfer_Protocol_Secure)?
