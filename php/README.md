@@ -9,7 +9,7 @@
   * puis afficher le code source du cadre (avec un clic droit dans la zone de résultat)
 * [PHP Tryit Editor : boucle FOR](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_loop_for)
 
-### Travail à faire
+### Travail à faire 1
 1. Avec [PHP Tryit Editor](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_loop_for), observer et comprendre le résultat obtenu avec le code [`exemple1.php`](https://github.com/thfruchart/tnsi/blob/main/php/exemple1.php)
 2. Avec [PHP Tryit Editor](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_loop_for), observer et comprendre le résultat obtenu avec le code [`exemple2.php`](https://github.com/thfruchart/tnsi/blob/main/php/exemple2.php)
 3. Compléter le code de l'exemple2, afin de générer une page correspondant à [`table.html`](https://github.com/thfruchart/tnsi/blob/main/php/table.html)
@@ -20,7 +20,7 @@
   * `post`
 * voir [ce lien sur w3schools](https://www.w3schools.com/php/php_forms.asp)
 
-### Travail à faire
+### Travail à faire 2
 * démarrer XAMP
 * dans le répertoire `C:\xamp\htdocs\`
   * créer un dossier TP
