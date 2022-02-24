@@ -1,5 +1,7 @@
 # PHP : un langage de programmation côté serveur
 
+![schéma](http://www.phpdebutant.org/system/images/intro/schema2.gif)
+
 ### Observer les exemples
 * [lien vers w3school : PHP Tutorial](https://www.w3schools.com/php/default.asp)
 * [PHP  Tryit Editor: Variables](https://www.w3schools.com/php/phptryit.asp?filename=tryphp_var) 
