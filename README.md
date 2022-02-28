@@ -11,6 +11,7 @@
 * [Arbres binaires de recherche](https://github.com/thfruchart/tnsi/tree/main/09)
 * [Diviser pour Régner](https://github.com/thfruchart/tnsi/tree/main/12)
 * [GRAPHES : représentation](https://github.com/thfruchart/tnsi/tree/main/10)
+* [GRAPHES : Algorithmes](https://github.com/thfruchart/tnsi/tree/main/11)
 
 
 ## Architecture Réseau et Systèmes d'Exploitation
