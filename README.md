@@ -20,3 +20,4 @@
 
 ## Bases de données et langage SQL
 * [vue d'ensemble](https://github.com/thfruchart/tnsi/tree/main/BDD)
+* [programme PHP pour requêtes SQL](https://github.com/thfruchart/tnsi/tree/main/php)
