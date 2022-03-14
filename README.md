@@ -12,7 +12,7 @@
 * [Diviser pour Régner](https://github.com/thfruchart/tnsi/tree/main/12)
 * [GRAPHES : représentation](https://github.com/thfruchart/tnsi/tree/main/10)
 * [GRAPHES : Algorithmes](https://github.com/thfruchart/tnsi/tree/main/11)
-* [Programmation dynamique](https://github.com/thfruchart/tnsi/tree/main/13°
+* [Programmation dynamique](https://github.com/thfruchart/tnsi/tree/main/13)
 
 
 ## Architecture Réseau et Systèmes d'Exploitation
