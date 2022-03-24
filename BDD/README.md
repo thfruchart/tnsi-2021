@@ -25,3 +25,6 @@
 ## Evaluation
 * [sujet](https://github.com/thfruchart/tnsi/blob/main/BDD/EVAL.pdf)
 * [correction](https://github.com/thfruchart/tnsi/blob/main/BDD/EvalCORR.md)
+
+## Aide à la conception d'une base de données
+* [Modèle entités-associations](https://dbconcept.tuxfamily.org/online/index.html)
