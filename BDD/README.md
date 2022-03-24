@@ -28,3 +28,4 @@
 
 ## Aide à la conception d'une base de données
 * [Modèle entités-associations](https://dbconcept.tuxfamily.org/online/index.html)
+  * [exemple : avec une bibliothèque](https://dbconcept.tuxfamily.org/online/index.html?mfd1=MCD&mfd2=MR-EN&source=Livre%20:%20id,%20titre,%20isbn%0Aecrire,%20%201N%20Livre,%201N%20%20Auteur%0AAuteur%20:%20id,%20nom,%20prenom%0A%0Arepresenter,%200NLivre,%2011Exemplaire%0A%0AExemplaire:code_barre%0Aeffectuer,%200NExemplaire,%200NUsager,%2011%20Emprunt%0AUsager%20:%20id,%20nom,%20prenom%0A%0A:%20%0AEmprunt:%20id,%20date_emprunt,%20date_retour%0A?mfd1=MCD&mfd2=MR-EN&source=Livre%20:%20id,%20titre,%20isbn%0Aecrire,%20%201N%20Livre,%201N%20%20Auteur%0AAuteur%20:%20id,%20nom,%20prenom%0A%0Arepresenter,%200NLivre,%2011Exemplaire%0A%0AExemplaire:code_barre%0Aeffectuer,%200NExemplaire,%200NUsager,%2011%20Emprunt%0AUsager%20:%20id,%20nom,%20prenom%0A%0A:%20%0AEmprunt:%20id,%20date_emprunt,%20date_retour%0A)
