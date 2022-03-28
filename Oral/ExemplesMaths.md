@@ -15,3 +15,9 @@
 *   Quel est le nombre de solutions d'une équation polynomiale de degré 3 ?
 *    Quelle est la forme de la trajectoire suivie par une sonde envoyée sur Mars ?
 *    Acheter ou louer son appartement ?
+
+
+Voir aussi :  
+Les vidéos du [concours videodimath](https://www.youtube.com/playlist?list=PLXEEiAfB74MfchhfH-VKLy6CnbD9XKev5), 
+les restitutions orales des ateliers [Maths.en.Jeans](https://www.youtube.com/channel/UC-nyKjL7JY4hB0YsgM0xymA), 
+les « joutes » orales du [tournoi des jeunes mathématiciennes et mathématiciens Animath](https://tfjm.org/).
