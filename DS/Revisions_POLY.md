@@ -1,7 +1,8 @@
 # Exercice 1
 ## Partie A
 
-1. le code affiche ```
+1. le code affiche
+```python
 8
 [8, 7, 18, 16, 12, 9, 17, 3]
 ```
