@@ -76,3 +76,24 @@ PaiementValide BOOLEAN,
 LivraisonFaite BOOLEAN,
 FOREIGN KEY(Idclient) REFERENCES Clients(IdClient);
 ```
+
+## Partie B
+1. Avec la méthode GET, les données sont transmises dans ... : la taille de ces données est limitée par la taille acceptée pour l'url par les navigateurs. La méthode POST permet d'envoyer des données en quantité plus importante. 
+2. Le protocole HTTPS est sécurisé : il est indispensable pour l'échange de données sensibles, comme des données de paiement. 
+3. Si certaines données transmises ne respectent pas les contraintes de domaine de la base de données, cela peut déclencher une erreur dans l'exécution de la requête SQL correspondante.
+
+## Partie C
+1.
+```sql
+SELECT IdArticle, Libelle 
+FROM Articles
+WHERE PrixEnCentimes <= 1500 ;
+```
+2. La requête proposée permet d'obtenir l'IdClient, l'Email, l'IdCmd et l'Adresse de livraison de toutes les commandes de la base pour lequel le booléen PaimentValide est faux.
+3.
+```sql
+SELECT Articles.Libelle
+FROM Articles
+...
+WHERE Commandes.IdCmd = 1345 ;
+```
