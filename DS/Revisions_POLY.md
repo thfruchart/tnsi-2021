@@ -55,5 +55,6 @@ def tri_fusion (liste, i_debut, i_fin):
 ## Partie D
 1. L'algorithme utilisé est le **tri fusion** : en effet, la lise a été découpée en deux, puis en quatre, puis en huit sous-listes, qui sont triées puis fusionnées.
 2.  
-    * $O(n^2)$ : tri ...
-    * $O(n log(n))$ : tri ...
+    * $O(n^2)$ : tri par insertion
+    * $O(n log(n))$ : tri fusion
+3. Le tri fusion est plus efficace que le tri par insertion.  La complexité en  $O(n log(n))$ est meilleure que  $O(n^2)$.
