@@ -33,3 +33,15 @@ Lorsqu'on exécute `tri_insertion(notes)` :
 2. On fusionne deux tas de cartes en comparant les cartes situées au sommet de chaque tas : 
     * si aucun des tas n'est vide : on sélectionne la plus petite des deux cartes
     * si un des tas est vide, on sélectionne la carte au somme de ce tas
+
+3.
+```python
+def tri_fusion (liste, i_debut, i_fin):
+    """ trie par fusion la liste en paramètre depuis
+    i_debut jusqu’à i_fin """
+    if i_debut < i_fin:
+    i_partage = floor((i_debut + i_fin) / 2)
+    tri_fusion(liste, i_debut, ...)
+    tri_fusion(liste, ..., i_fin)
+    fusionner(liste, ..., ..., ...)
+```
