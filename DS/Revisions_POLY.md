@@ -45,9 +45,9 @@ def tri_fusion (liste, i_debut, i_fin):
     i_debut jusqu’à i_fin """
     if i_debut < i_fin:
         i_partage = floor((i_debut + i_fin) / 2)
-        tri_fusion(liste, i_debut, ...)
-        tri_fusion(liste, ..., i_fin)
-        fusionner(liste, ..., ..., ...)
+        tri_fusion(liste, i_debut, i_partage)
+        tri_fusion(liste, i_partage, i_fin)
+        fusionner(liste, i_debut, i_partage, i_fin)
 ```
 
 4. La première ligne ` if i_debut < i_fin:` assure qu' aucun appel récursif ne s'effectue lorsque `i_debut >= i_fin`, qui correspond donc au "cas de base" de la fusion.
