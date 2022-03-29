@@ -46,7 +46,7 @@ def tri_fusion (liste, i_debut, i_fin):
     if i_debut < i_fin:
         i_partage = floor((i_debut + i_fin) / 2)
         tri_fusion(liste, i_debut, i_partage)
-        tri_fusion(liste, i_partage, i_fin)
+        tri_fusion(liste, i_partage+1, i_fin)
         fusionner(liste, i_debut, i_partage, i_fin)
 ```
 
