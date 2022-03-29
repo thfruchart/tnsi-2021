@@ -26,3 +26,10 @@ def tri_insertion(liste):
 Lorsqu'on exécute `tri_insertion(notes)` :  
 2. après le premier passage dans la boucle `for` : `notes = [7, 8, 18, 14, 12, 9, 17, 3]`  
 3. après le troisième passage dans la boucle `for` : `notes = [7, 8, 14, 18, 12, 9, 17, 3]`  
+
+## Partie C
+
+1. L'algorithme est **récursif** car on appelle `tri_fusion` pour trier chaque partie du tableau.
+2. On fusionne deux tas de cartes en comparant les cartes situées au sommet de chaque tas : 
+    * si aucun des tas n'est vide : on sélectionne la plus petite des deux cartes
+    * si un des tas est vide, on sélectionne la carte au somme de ce tas
