@@ -94,7 +94,8 @@ WHERE PrixEnCentimes <= 1500 ;
 ```sql
 SELECT Articles.Libelle
 FROM Articles
-...
+JOIN ArticlesCommande ON ArticlesCommande.IdArticle = Articles.IdArticle
+JOIN Commandes ON Commandes.IdCmd = ArticlesCommande.IdCmd
 WHERE Commandes.IdCmd = 1345 ;
 ```
 
