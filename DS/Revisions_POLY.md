@@ -97,3 +97,10 @@ FROM Articles
 ...
 WHERE Commandes.IdCmd = 1345 ;
 ```
+
+
+4.
+```sql
+INSERT INTO Articles(Libelle,Description,PrixEnCentimes)
+VALUES ("Imperméable", "Cet imperméable se replis en forme de pochette", 999);
+```
