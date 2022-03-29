@@ -58,3 +58,21 @@ def tri_fusion (liste, i_debut, i_fin):
     * $O(n^2)$ : tri par insertion
     * $O(n log(n))$ : tri fusion
 3. Le tri fusion est plus efficace que le tri par insertion.  La complexité en  $O(n log(n))$ est meilleure que  $O(n^2)$.
+
+
+
+# Exercice 2
+## Partie A
+1. La relation `Clients` a pour clé primaire `IdClient`. La relation `Article` a pour clé primaire `IdArticle`.
+2. Le domaine de l'attribut `Email` est **texte**: VARCHAR(50). Et le domaine de l'attribut `Quantite` est **entier**: INT.
+3.
+```sql
+CREATE TABLE Commandes (
+IdCmd INT PRIMARY KEY,
+IdClient INT,
+Date DATE,
+AdresseLivraison VARCHAR(90),
+PaiementValide BOOLEAN,
+LivraisonFaite BOOLEAN,
+FOREIGN KEY(Idclient) REFERENCES Clients(IdClient);
+```
