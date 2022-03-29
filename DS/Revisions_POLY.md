@@ -50,8 +50,7 @@ def tri_fusion (liste, i_debut, i_fin):
         fusionner(liste, ..., ..., ...)
 ```
 
-4. La première ligne ` if i_debut < i_fin:` assure que l'appel récursif ne s'effectue que s'il reste une zone non triée.  
-Le cas de base de la fonction récursive est donc : ` i_debut >= i_fin:`
+4. La première ligne ` if i_debut < i_fin:` assure qu' aucun appel récursif ne s'effectue lorsque `i_debut >= i_fin`, qui correspond donc au "cas de base" de la fusion.
 
 ## Partie D
 1. L'algorithme utilisé est le **tri fusion** : en effet, la lise a été découpée en deux, puis en quatre, puis en huit sous-listes, qui sont triées puis fusionnées.
