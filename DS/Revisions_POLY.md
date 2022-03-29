@@ -40,8 +40,8 @@ def tri_fusion (liste, i_debut, i_fin):
     """ trie par fusion la liste en paramètre depuis
     i_debut jusqu’à i_fin """
     if i_debut < i_fin:
-    i_partage = floor((i_debut + i_fin) / 2)
-    tri_fusion(liste, i_debut, ...)
-    tri_fusion(liste, ..., i_fin)
-    fusionner(liste, ..., ..., ...)
+        i_partage = floor((i_debut + i_fin) / 2)
+        tri_fusion(liste, i_debut, ...)
+        tri_fusion(liste, ..., i_fin)
+        fusionner(liste, ..., ..., ...)
 ```
