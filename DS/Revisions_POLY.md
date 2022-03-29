@@ -10,7 +10,7 @@
 2.
 ```python
 for i in range(2,4+1):
-    print(t[i])
+    print(notes[i])
 ```
 ## Partie B
 1.
