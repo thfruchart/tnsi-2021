@@ -50,7 +50,7 @@ def tri_fusion (liste, i_debut, i_fin):
         fusionner(liste, i_debut, i_partage, i_fin)
 ```
 
-4. La première ligne ` if i_debut < i_fin:` assure qu' aucun appel récursif ne s'effectue lorsque `i_debut >= i_fin`, qui correspond donc au "cas de base" de la fusion.
+4. La première ligne `from math import floor` permet d'importer la fonction floor du module math, et d'obtenir un nombre entier.
 
 ## Partie D
 1. L'algorithme utilisé est le **tri fusion** : en effet, la lise a été découpée en deux, puis en quatre, puis en huit sous-listes, qui sont triées puis fusionnées.
