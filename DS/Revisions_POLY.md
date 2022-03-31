@@ -105,3 +105,11 @@ WHERE Commandes.IdCmd = 1345 ;
 INSERT INTO Articles(Libelle,Description,PrixEnCentimes)
 VALUES ("Imperméable", "Cet imperméable se replis en forme de pochette", 999);
 ```
+
+## Partie D
+1. On ajoute : 
+* dans la relation Articles, un attribut **stock** de type INT.
+* dans la relation Clients, un attirubt **AdresseParDefaut** de type TEXT
+
+2. l'erreur se situe dans la ligne `Stock = Stock -1`.  
+Il faut la remplacer par :  `Stock = Stock - Quantite`.  
