@@ -7,6 +7,6 @@
 
 ## Liens à explorer
 1. [Aspects historiques](http://www.monlyceenumerique.fr/nsi_terminale/lp/lp1_calculabilite_decidabilite.php#1)
-2. [Machine de Turing](https://lycee.editions-bordas.fr/partage/a/2460516/chapitre-sequence-10-machine-de-turing)
+2. [Machine de Turing](https://www.cahier-nsi.fr/Turing/)
 3. [Article "Théorie de la Calculabilité"](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_calculabilit%C3%A9#D%C3%A9finition_d'une_fonction_calculable)
 4. Notebook sur le [problème de l'arrêt](https://github.com/thfruchart/tnsi/blob/main/15/Pb_ARRET.ipynb)
