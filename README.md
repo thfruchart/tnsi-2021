@@ -14,6 +14,7 @@
 * [GRAPHES : Algorithmes](https://github.com/thfruchart/tnsi/tree/main/11)
 * [Programmation dynamique](https://github.com/thfruchart/tnsi/tree/main/13)
 * [Recherche d'un motif dans une chaîne : Boyer-Moore](https://github.com/thfruchart/tnsi/tree/main/14)
+* [Calculabilité, décidabilité, problème de l'arrêt](https://github.com/thfruchart/tnsi/tree/main/15)
 
 ## Architecture Réseau et Systèmes d'Exploitation
 * [Routage](https://github.com/thfruchart/tnsi/tree/main/23)
