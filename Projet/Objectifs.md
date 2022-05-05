@@ -13,7 +13,7 @@
     2. structure des pages
     3. formulaires de saisie
     4. affichage des réponses
-4. Requêtes SQL correspondant aux différentes fonctionnalités (5 points)
+4. Requêtes SQL correspondant aux différentes fonctionnalités (6 points)
     1. sélection
     2. insertion, 
     3. modification 
@@ -21,4 +21,4 @@
 5. Côté serveur (6 points)
     1. code php pour connection et requêtes SQL
     2. code php pour générer le html visible par l'utilisateur
-6. Démonstration destinée au client (10 points)
+6. Démonstration destinée au client (9 points)
