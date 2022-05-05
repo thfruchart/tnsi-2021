@@ -7,7 +7,7 @@
 2. Base de données (3 points)
     1. quelles informations stocker ? 
     2. comment les structurer ? 
-    3. schéma relationnel et/ou modèle entité-association
+    3. schéma relationnel et/ou [modèle entité-association](https://dbconcept.tuxfamily.org/online/index.html)
 3. Architecture du site (3 points) 
     1. organisation en une ou plusieurs pages
     2. structure des pages
