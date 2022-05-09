@@ -1,6 +1,7 @@
 # Terminale NSI
-### [Les notions au programme de Term NSI](https://github.com/thfruchart/tnsi/blob/main/NSI-entr%C3%A9es-pr%C3%A9pond%C3%A9rantes.pdf)
-### [Les épreuves du BAC](https://github.com/thfruchart/tnsi/blob/main/D%C3%A9finition%20Epreuve%20Term.pdf)
+## [Révisions épreuve écrite](https://github.com/thfruchart/tnsi/blob/main/DS/README.md)
+#### [Les notions au programme de Term NSI](https://github.com/thfruchart/tnsi/blob/main/NSI-entr%C3%A9es-pr%C3%A9pond%C3%A9rantes.pdf)
+#### [Les épreuves du BAC](https://github.com/thfruchart/tnsi/blob/main/D%C3%A9finition%20Epreuve%20Term.pdf)
 ## Programmation et Algorithmique
 * [Récursivité](https://github.com/thfruchart/tnsi/tree/main/01)
 * [Modularité](https://github.com/thfruchart/tnsi/tree/main/02)
