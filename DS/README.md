@@ -1,5 +1,8 @@
-# DS1
+## Révision
+#### [Sujet2](https://github.com/thfruchart/tnsi/blob/main/DS/sujet_2.pdf)
+## [Polynésie 2022](https://github.com/thfruchart/tnsi/blob/main/DS/J1PO-2022.pdf) ... [](https://ens-fr.gitlab.io/algo2/9-BAC/1-jipo1/)
+
+
+## DS1
 Des fichiers séparés correspondent à chacun des exercices.
 
-## Révision
-* [Sujet2](https://github.com/thfruchart/tnsi/blob/main/DS/sujet_2.pdf)
