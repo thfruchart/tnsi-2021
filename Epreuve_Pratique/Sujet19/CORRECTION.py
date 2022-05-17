@@ -7,17 +7,17 @@ def recherche(tab,n):
     et renvoie un indice de n dans tab sinon. '''
     g = 0
     d = len(tab)-1
-    while ...  :
+    while g <= d  :
         m = (g+d)//2
         if n == tab[m] :
             return m
         elif n < tab[m] :
-            ...
+            d = m-1
         else : #  n > tab[m]
-            ...
+            g = m+1
     return -1
 
-recherche([10,20,30,40,50], 10) == 0
+
 
 assert recherche([10,20,30,40,50], 30) == 2
 assert recherche([10,20,30,40,50], 10) == 0
@@ -33,12 +33,12 @@ def position_alphabet(lettre):
 
 def cesar(message, decalage):
     resultat = ''
-    for ... in message :
+    for lettre  in message :
         if lettre in ALPHABET :
-            indice = (...  )%26
+            indice = (position_alphabet(lettre) + decalage  )%26
             resultat = resultat + ALPHABET[indice]
         else:
-            resultat = ... 
+            resultat = resultat + lettre
     return resultat
 
 assert cesar('BONJOUR A TOUS, VIVE LA MATIERE NSI.', 4) == 'FSRNSYV E XSYW, ZMZI PE QEXMIVI RWM.'
