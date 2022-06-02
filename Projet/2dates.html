@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Show a Date Control</h1>
+
+<form action="/action_page.php">
+  <label for="debut">début:</label>
+  <input type="date" id="debut" name="debut" onclick="this.min=new Date().toISOString().substring(0, 10);this.max=document.getElementById('fin').value">
+  <label for="fin">fin:</label>
+  <input type="date" id="fin" name="fin" onclick="this.min=document.getElementById('debut').value">
+  <input type="submit">
+</form>
+
+<p><strong>Note:</strong> type="date" is not supported in Internet Explorer 11 or prior Safari 14.1.</p>
+
+</body>
+</html>
